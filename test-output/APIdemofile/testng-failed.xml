@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [APIdemofile]">
+  <test thread-count="5" name="TC__API001(failed)">
+    <classes>
+      <class name="testNgRun.ApiDBtest">
+        <methods>
+          <include name="divideService"/>
+          <include name="startWith"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testNgRun.ApiDBtest -->
+    </classes>
+  </test> <!-- TC__API001(failed) -->
+</suite> <!-- Failed suite [APIdemofile] -->

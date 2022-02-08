@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3126" started-at="2022-02-05T11:17:22Z" finished-at="2022-02-05T11:17:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3126" started-at="2022-02-05T11:17:22Z" finished-at="2022-02-05T11:17:25Z">
+      <class name="testNgRun.HarmcrestMatchr">
+        <test-method status="PASS" signature="testAssertThatList()[pri:0, instance:testNgRun.HarmcrestMatchr@2f7c2f4f]" name="testAssertThatList" duration-ms="3019" started-at="2022-02-05T11:17:22Z" finished-at="2022-02-05T11:17:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAssertThatList -->
+      </class> <!-- testNgRun.HarmcrestMatchr -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
